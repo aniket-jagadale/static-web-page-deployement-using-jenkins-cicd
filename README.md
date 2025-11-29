@@ -1,1 +1,0 @@
-# static-web-page-deployement-using-jenkins-cicd
